@@ -1,8 +1,16 @@
 # Figma For Devs
 
+<img src="./figma4devs.png">
+
+#
+
 👩🏻‍🎓 PDF: https://app.rocketseat.com.br/api/certificates/pdf/1cdc7c4f-7508-4924-85c6-d6ce2b90c1e9
 
 🎓 Validar Certificado: https://app.rocketseat.com.br/certificates/1cdc7c4f-7508-4924-85c6-d6ce2b90c1e9
+
+<img src="./certification.png">
+
+#
 
 🎨 Figma: https://www.figma.com/file/1TImpFEJqtr6JMU8PuiXFm/Figma4devs-2?node-id=3%3A340&t=NDDNoT4ggsbKrW6U-1
 
